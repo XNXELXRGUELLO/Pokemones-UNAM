@@ -17,7 +17,7 @@
 ## Login 👤
 Este login consiste en ingresar tu CURP y password si el cliente ya esta registrado previamente. De modo contrario el cliente debera registrarse.
 
-<img src="https://www.profesionalreview.com/wp-content/uploads/2020/05/Linus-Torvalds-deja-Intel-y-adopta-un-Threadripper-de-32-n%C3%BAcleos-en-su-PC.jpg" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/descarga.jpg" width="200px"/>
 
 ## GitHub :octocat:
 A mi me gusta ver a GitHub de 2 formas: 
