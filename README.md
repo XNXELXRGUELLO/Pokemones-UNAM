@@ -1,4 +1,6 @@
-![GitHub for beginners](https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png)
+<p align="center">
+ ![GitHub for beginners](https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png)
+ </p>
 <h3 align="center">Covadonga App</h3>
 
 <div align="center">
