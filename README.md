@@ -1,7 +1,6 @@
 <p align="center">
  
- <center>(https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png)
-  </center>
+ <center>https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png</center>
  </p>
 <h3 align="center">Covadonga App</h3>
 
