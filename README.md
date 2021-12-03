@@ -40,13 +40,16 @@ Mediante este boton  nos permite ingresar al area de programacion de consultas.
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/d51e9c48-5b95-449a-adde-b991a6c7f820.jpg" width="200px"/>
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/098eb984-91c0-4000-8015-7638ace107f9.jpg" width="200px"/>
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/ba52f625-eace-4850-b4d1-8b6fb97d6a5c.jpg" width="200px"/>
+
 ---
+
 ## Boton Historial Medico💠
-Mediante este boton el usuario podra acceder directamente a los historiales clinicos.
+Mediante este boton el usuario podra acceder directamente a los historiales clinicos realizados con anterioridad.
 
 <img src="" width="200px"/>
 
 ---
+
 ## Boton Video Consulta💠
 Mediante este boton el paciente podra acceder a su video consulta con el doctor asignado en la hora y fecha asignada.
 
@@ -59,6 +62,7 @@ Mediante este boton el paciente tendra acceso a escanear codigos qr, y podra gen
 <img src="" width="200px"/>
 
 ---
+
 ## Boton Urgencias 💠
 Mediante este boton se puede realizar un aviso a el hospital que una emergencia va en camino, esto ayudara a dar prioridades mediante una clasificacion.
 
