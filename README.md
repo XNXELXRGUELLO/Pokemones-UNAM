@@ -15,7 +15,7 @@
  
 ---
 ## Login 👤
-Es el sistema de control de versiones que te permitira observar, controlar y modificar las versiones de cada uno de tus proyectos. Si en un futuro tu codigo se rompio o surgio algun problema en el proyecto, Git te permitira regresar a una version estable de tu proyecto. Fue creado por el unico e inigualable Linus Torvalds 🤓
+Este login consiste en ingresar tu CURP y password si el cliente ya esta registrado previamente. De modo contrario el cliente debera registrarse.
 
 <img src="https://www.profesionalreview.com/wp-content/uploads/2020/05/Linus-Torvalds-deja-Intel-y-adopta-un-Threadripper-de-32-n%C3%BAcleos-en-su-PC.jpg" width="200px"/>
 
