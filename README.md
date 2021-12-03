@@ -14,7 +14,7 @@
 ## Es una app con la enorme capacidad de facilitar la gestion y contratacion de  servicios dentro del hospital covadonga tales como programacion de citas para consulta, video consultas, analisis clinicos, visualizacion de historial medico y urgencias.
  
 ---
-## Git 💻
+## Login 👤
 Es el sistema de control de versiones que te permitira observar, controlar y modificar las versiones de cada uno de tus proyectos. Si en un futuro tu codigo se rompio o surgio algun problema en el proyecto, Git te permitira regresar a una version estable de tu proyecto. Fue creado por el unico e inigualable Linus Torvalds 🤓
 
 <img src="https://www.profesionalreview.com/wp-content/uploads/2020/05/Linus-Torvalds-deja-Intel-y-adopta-un-Threadripper-de-32-n%C3%BAcleos-en-su-PC.jpg" width="200px"/>
