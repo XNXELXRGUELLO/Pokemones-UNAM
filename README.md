@@ -37,7 +37,8 @@ Mediante este boton nos rediriremos a una interfaz donde podremos sacar cita  pa
 
 Mediante este boton  nos permite ingresar al area de programacion de consultas.
 
-<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/d51e9c48-5b95-449a-adde-b991a6c7f820.jpg" width="200px"/><img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/098eb984-91c0-4000-8015-7638ace107f9.jpg" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/d51e9c48-5b95-449a-adde-b991a6c7f820.jpg" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/098eb984-91c0-4000-8015-7638ace107f9.jpg" width="200px"/>
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/ba52f625-eace-4850-b4d1-8b6fb97d6a5c.jpg" width="200px"/>
 
 ---
@@ -65,4 +66,5 @@ Mediante este boton el paciente tendra acceso a escanear codigos qr, y podra gen
 ## Boton Urgencias 💠
 Mediante este boton se puede realizar un aviso a el hospital que una emergencia va en camino, esto ayudara a dar prioridades mediante una clasificacion.
 
-<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/15d3e494-c69b-46a5-a26c-d91c6cca63e7.jpg" width="200px"/><img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/b9e603e7-6da7-4ff5-91b6-43db92b7231a.jpg" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/15d3e494-c69b-46a5-a26c-d91c6cca63e7.jpg" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/b9e603e7-6da7-4ff5-91b6-43db92b7231a.jpg" width="200px"/>
