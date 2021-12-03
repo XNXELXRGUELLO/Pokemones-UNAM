@@ -46,13 +46,13 @@ Mediante este boton el usuario podra acceder directamente a los historiales clin
 
 ---
 ## Boton Video Consulta💠
-Mediante este boton 
+Mediante este boton el paciente podra acceder a su video consulta con el doctor asignado en la hora y fecha asignada.
 
 <img src="" width="200px"/>
 
 ---
 ## Boton  Codigo QR 💠
-Mediante este boton 
+Mediante este boton el paciente tendra acceso a escanear codigos qr, y podra generar el suyo con su informacion necesaria para su validacion en cualquier area medica del hospital.
 
 <img src="" width="200px"/>
 
