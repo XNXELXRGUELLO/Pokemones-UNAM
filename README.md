@@ -44,24 +44,24 @@ Mediante este boton  nos permite ingresar al area de programacion de consultas.
 ## Boton Historial Medico💠
 Mediante este boton el usuario podra acceder directamente a los historiales clinicos realizados con anterioridad.
 
-<img src="" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/05cb406c-152d-4a2f-801e-2314b6b30983.jpg" width="200px"/>
 
 ---
 
 ## Boton Video Consulta💠
 Mediante este boton el paciente podra acceder a su video consulta con el doctor asignado en la hora y fecha asignada.
 
-<img src="" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/3e5fda73-32b4-476f-8c70-fb8ccf9d3de9.jpg" width="200px"/>
 
 ---
 ## Boton  Codigo QR 💠
 Mediante este boton el paciente tendra acceso a escanear codigos qr, y podra generar el suyo con su informacion necesaria para su validacion en cualquier area medica del hospital.
 
-<img src="" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/50ba373a-ff58-44f1-bce6-2f4c4d2bd637.jpg" width="200px"/>
 
 ---
 
 ## Boton Urgencias 💠
 Mediante este boton se puede realizar un aviso a el hospital que una emergencia va en camino, esto ayudara a dar prioridades mediante una clasificacion.
 
-<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/15d3e494-c69b-46a5-a26c-d91c6cca63e7.jpg" width="200px"/><img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/b9e603e7-6da7-4ff5-91b6-43db92b7231a.jpg" width="200px"/>
+<img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/15d3e494-c69b-46a5-a26c-d91c6cca63e7.jpg" width="200px"/><img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/b9e603e7-6da7-4ff5-91b6-43db92b7231a.jpg" width="200px"/><img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/b6d4e82e-1166-4ae1-a3f4-2b088ebdb0c0.jpg" width="200px"/><img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/a805f962-6857-4685-9240-40214297697d.jpg" width="200px"/>
