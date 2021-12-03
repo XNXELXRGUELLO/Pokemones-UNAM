@@ -11,7 +11,7 @@
   
 </p>
 
-## Es una app con la enorme capacidad de facilitar la gestion y contratacion de  servicios dentro del hospital covadonga tales como programacion de citas para consulta, video consultas, analisis clinicos, visualizacion de historial medico y urgencias.
+## Es una app con la enorme capacidad de facilitar la gestion y contratacion de  servicios dentro del hospital covadonga tales como programacion de citas para consulta, video consultas, analisis clinicos, visualizacion de historial medico y urgencias. 
  
 ---
 ## Login 👤
