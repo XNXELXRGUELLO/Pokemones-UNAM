@@ -13,8 +13,8 @@
   
 </p>
 
-## hola
-### Estas listo ra comenzar tu viaje en GitHub? :octocat:
+## Es una app con la enorme capacidad de facilitar la gestion y contratacion de  servicios dentro del hospital covadonga tales como cita para consulta, video consultas, analisis ###clinicos, visualizacion de historial medico, urgencias y su clasificacion.:octocat:
+ 
 En este repositorio podras encontrar todo lo necesario para poder empezar tu camino en el mundo de la colaboración en equipo para proyectos 👨‍💻👩‍💻
 
 ---
