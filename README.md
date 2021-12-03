@@ -1,4 +1,4 @@
-![GitHub for beginners](https://user-images.githubusercontent.com/57787993/132023728-f6ab9f8d-fd74-48d5-9be3-e3a56683dd69.png)
+![GitHub for beginners](https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png)
 <h3 align="center">GitHub For Beginnners</h3>
 
 <div align="center">
