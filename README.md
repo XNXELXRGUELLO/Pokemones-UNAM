@@ -1,19 +1,17 @@
 ![GitHub for beginners](https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png)
-<h3 align="center">GitHub For Beginnners</h3>
+<h3 align="center">Covadonga App</h3>
 
 <div align="center">
- 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]()
  
 </div>
 
 ---
 <p align="center">
-  Aprende GitHub creando una lista de tus pokemones favoritos con tus amigos
+  
 </p>
 
-## Hola Puma! 🐱
-### Estas listo para comenzar tu viaje en GitHub? :octocat:
+## hola
+### Estas listo ra comenzar tu viaje en GitHub? :octocat:
 En este repositorio podras encontrar todo lo necesario para poder empezar tu camino en el mundo de la colaboración en equipo para proyectos 👨‍💻👩‍💻
 
 ---
