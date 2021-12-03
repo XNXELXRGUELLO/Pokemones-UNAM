@@ -1,7 +1,7 @@
-<p align="center">
+![GitHub for beginners](https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png)
+<h3 align="center">Hospital Covadonga</h3>
+ <center></center>
  
- <center>https://mediprax.mx/wp-content/uploads/2018/01/COVADONGA.png</center>
- </p>
 <h3 align="center">Covadonga App</h3>
 
 <div align="center">
