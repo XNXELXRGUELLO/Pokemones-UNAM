@@ -40,7 +40,7 @@ Mediante este boton  nos permite ingresar al area de programacion de consultas.
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/ba52f625-eace-4850-b4d1-8b6fb97d6a5c.jpg" width="200px"/>
 ---
 ## Boton Historial Medico💠
-Mediante este boton 
+Mediante este boton el usuario podra acceder directamente a los historiales clinicos.
 
 <img src="" width="200px"/>
 
@@ -51,13 +51,7 @@ Mediante este boton
 <img src="" width="200px"/>
 
 ---
-## Boton Analisis Codigo QR 💠
-Mediante este boton 
-
-<img src="" width="200px"/>
-
----
-## Boton Analisis clinico 💠
+## Boton  Codigo QR 💠
 Mediante este boton 
 
 <img src="" width="200px"/>
