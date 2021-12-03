@@ -21,7 +21,7 @@ Este login consiste en ingresar tu CURP y password si el cliente ya esta registr
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/dfc1f5a4-a8c4-4490-b5bf-be48b3a5e859.jpg" width="200px"/>
 
 ---
-## Menu principal 👤
+## Menu principal 💠
 Este login consiste en ingresar tu CURP y password si el cliente ya esta registrado previamente. De modo contrario el cliente debera registrarse.
 
 <img src="https://raw.githubusercontent.com/XNXELXRGUELLO/Pokemones-UNAM/main/fa15134c-834a-4873-88ca-e0460f6c679f.jpg" width="200px"/>
